@@ -73,7 +73,6 @@ To customize this portfolio:
 
 - Semantic HTML5 markup
 - Mobile-first responsive design
-- Optimized performance with minimal JavaScript
 - Accessible navigation
 - Clean and maintainable code structure
 - Modern UI/UX principles
